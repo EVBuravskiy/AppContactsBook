@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Controls style -->
+    <Style x:Key="MenuTabButton" TargetType="Button">
+        <Setter Property="Background" Value="{StaticResource BlueGreyGradient}"/>
+        <Setter Property="Foreground" Value="{StaticResource Innuendo}"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BlueHorizon}"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="BorderThickness" Value="0,0,1,0"/>
+        <Setter Property="Cursor" Value="Hand"/>
+    </Style>
+    
+    <!-- Style of Menu icon button -->
+    <Style x:Key="MenuIconButton" TargetType="Button">
+        <Setter Property="Background" Value="{StaticResource BlueGreyGradient}"/>
+        <Setter Property="Foreground" Value="{StaticResource MaximumBlueGreen}"/>
+        <Setter Property="Padding" Value="5"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="Cursor" Value="Hand"/>
+    </Style>
+
+</ResourceDictionary>
