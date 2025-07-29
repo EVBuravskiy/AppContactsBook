@@ -1,4 +1,6 @@
-﻿using AppContactBook.Utilities;
+﻿using AppContactBook.Controllers;
+using AppContactBook.Utilities;
+using AppContactBook.ViewModels.AppContactBook.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +16,20 @@ namespace AppContactBook
         {
             get { return _currentView; }
             set { OnPropertyChanged(ref _currentView, value); }
+        }
+
+        private BookViewModel _bookViewModel;
+        public BookViewModel BookViewModel
+        {
+            get { return _bookViewModel; }
+            set { OnPropertyChanged(ref _bookViewModel, value); }
+        }
+
+        public AppViewModel()
+        {
+            IContactDataService contactDataService = new MockDataController();
+            BookViewModel = new BookViewModel(contactDataService);
+            CurrentView = BookViewModel;
         }
     }
 }
