@@ -3,16 +3,88 @@
   "WorkspaceRootPath": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\views\\contactitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\views\\contactitemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\views\\contactdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\views\\contactdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\resources\\styles\\elementstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\resources\\styles\\elementstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\resources\\styles\\datatemplates.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\resources\\styles\\datatemplates.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\viewmodels\\contactsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\viewmodels\\contactsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\utilities\\windowdialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\utilities\\windowdialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\appviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\appviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\utilities\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\utilities\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\utilities\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\utilities\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\utilities\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\utilities\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\controllers\\mockdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\controllers\\mockdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\controllers\\icontactdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\controllers\\icontactdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\views\\contactitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\views\\contactitemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\views\\bookview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\views\\bookview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|f:\\programming\\\u0441#\\\u043F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\appcontactbook\\appcontactbook\\appcontactbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64702278-C027-49D9-8650-82FED429EDA2}|AppContactBook\\AppContactBook.csproj|solutionrelative:appcontactbook\\appcontactbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,39 +111,251 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\App.xaml",
-              "RelativeDocumentMoniker": "AppContactBook\\App.xaml",
-              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\App.xaml",
-              "RelativeToolTip": "AppContactBook\\App.xaml",
+              "Title": "ContactDetailsView.xaml",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\ContactDetailsView.xaml",
+              "RelativeDocumentMoniker": "AppContactBook\\Views\\ContactDetailsView.xaml",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\ContactDetailsView.xaml",
+              "RelativeToolTip": "AppContactBook\\Views\\ContactDetailsView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-28T12:23:23.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T08:10:41.92Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ContactItemView.xaml",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\ContactItemView.xaml",
+              "RelativeDocumentMoniker": "AppContactBook\\Views\\ContactItemView.xaml",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\ContactItemView.xaml",
+              "RelativeToolTip": "AppContactBook\\Views\\ContactItemView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-30T05:52:23.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataTemplates.xaml",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Resources\\Styles\\DataTemplates.xaml",
+              "RelativeDocumentMoniker": "AppContactBook\\Resources\\Styles\\DataTemplates.xaml",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Resources\\Styles\\DataTemplates.xaml",
+              "RelativeToolTip": "AppContactBook\\Resources\\Styles\\DataTemplates.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-30T06:00:08.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElementStyles.xaml",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Resources\\Styles\\ElementStyles.xaml",
+              "RelativeDocumentMoniker": "AppContactBook\\Resources\\Styles\\ElementStyles.xaml",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Resources\\Styles\\ElementStyles.xaml",
+              "RelativeToolTip": "AppContactBook\\Resources\\Styles\\ElementStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-30T05:56:32.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsViewModel.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\ViewModels\\ContactsViewModel.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\ViewModels\\ContactsViewModel.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\ViewModels\\ContactsViewModel.cs",
+              "RelativeToolTip": "AppContactBook\\ViewModels\\ContactsViewModel.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:12:58.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowDialogService.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\WindowDialogService.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\Utilities\\WindowDialogService.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\WindowDialogService.cs",
+              "RelativeToolTip": "AppContactBook\\Utilities\\WindowDialogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:18:30.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\ViewModels\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\ViewModels\\BookViewModel.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\ViewModels\\BookViewModel.cs",
+              "RelativeToolTip": "AppContactBook\\ViewModels\\BookViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA7wCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:13:20.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\Utilities\\RelayCommand.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\RelayCommand.cs",
+              "RelativeToolTip": "AppContactBook\\Utilities\\RelayCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:03:10.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppViewModel.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\AppViewModel.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\AppViewModel.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\AppViewModel.cs",
+              "RelativeToolTip": "AppContactBook\\AppViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:02:43.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDialogService.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\IDialogService.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\Utilities\\IDialogService.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\IDialogService.cs",
+              "RelativeToolTip": "AppContactBook\\Utilities\\IDialogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:07:05.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AppContactBook\\MainWindow.xaml",
               "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\MainWindow.xaml",
               "RelativeToolTip": "AppContactBook\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-28T12:18:18.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T05:08:07.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\Utilities\\ObservableObject.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\ObservableObject.cs",
+              "RelativeToolTip": "AppContactBook\\Utilities\\ObservableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:19:59.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\Converters.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\Utilities\\Converters.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Utilities\\Converters.cs",
+              "RelativeToolTip": "AppContactBook\\Utilities\\Converters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:32:54.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MockDataController.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Controllers\\MockDataController.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\Controllers\\MockDataController.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Controllers\\MockDataController.cs",
+              "RelativeToolTip": "AppContactBook\\Controllers\\MockDataController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wDUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:46:54.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IContactDataService.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Controllers\\IContactDataService.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\Controllers\\IContactDataService.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Controllers\\IContactDataService.cs",
+              "RelativeToolTip": "AppContactBook\\Controllers\\IContactDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:13:28.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactItemView.xaml.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\ContactItemView.xaml.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\Views\\ContactItemView.xaml.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\ContactItemView.xaml.cs",
+              "RelativeToolTip": "AppContactBook\\Views\\ContactItemView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:52:27.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AppContactBook\\MainWindow.xaml.cs",
               "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\MainWindow.xaml.cs",
               "RelativeToolTip": "AppContactBook\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:17:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\App.xaml",
+              "RelativeDocumentMoniker": "AppContactBook\\App.xaml",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\App.xaml",
+              "RelativeToolTip": "AppContactBook\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-30T06:02:51.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookView.xaml",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\BookView.xaml",
+              "RelativeDocumentMoniker": "AppContactBook\\Views\\BookView.xaml",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\BookView.xaml",
+              "RelativeToolTip": "AppContactBook\\Views\\BookView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-30T05:50:35.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookView.xaml.cs",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\BookView.xaml.cs",
+              "RelativeDocumentMoniker": "AppContactBook\\Views\\BookView.xaml.cs",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\Views\\BookView.xaml.cs",
+              "RelativeToolTip": "AppContactBook\\Views\\BookView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T12:18:16.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T05:54:11.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppContactBook.csproj",
+              "DocumentMoniker": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\AppContactBook.csproj",
+              "RelativeDocumentMoniker": "AppContactBook\\AppContactBook.csproj",
+              "ToolTip": "F:\\Programming\\\u0421#\\\u041F\u0435\u0442-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\AppContactBook\\AppContactBook\\AppContactBook.csproj",
+              "RelativeToolTip": "AppContactBook\\AppContactBook.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T05:49:59.675Z"
             }
           ]
         }

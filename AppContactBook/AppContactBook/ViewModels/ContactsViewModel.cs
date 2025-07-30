@@ -26,6 +26,8 @@ namespace AppContactBook.ViewModels
 
         private IContactDataService _contactDataService;
 
+        private IDialogService _dialogService;
+
         public ICommand UpdateCommand { get; private set; }
 
         private bool _isEditMode;
@@ -49,14 +51,28 @@ namespace AppContactBook.ViewModels
 
         public ICommand SaveCommand { get; private set; }
 
+        public ICommand BrowseImageCommand { get; private set; }
+
         //Конструктор модели-представления
-        public ContactsViewModel(IContactDataService contactDataService)
+        public ContactsViewModel(IContactDataService contactDataService, IDialogService dialogService)
         {
             _contactDataService = contactDataService;
-            UpdateCommand = new RelayCommand(Update);
             _contacts = contactDataService.GetContacts();
+            _dialogService = dialogService;
+            UpdateCommand = new RelayCommand(Update);
             EditCommand = new RelayCommand(Edit, CanEdit);
             SaveCommand = new RelayCommand(Save, IsEdit);
+            BrowseImageCommand = new RelayCommand(BrowseImage, IsEdit);
+        }
+
+        private void BrowseImage()
+        {
+            //Получаем путь к файлу
+            //В методе OpenFile прописываем фильтр файлов, которые будут открываться
+            var filePath = _dialogService.OpenFile("Image files|*.bmp;*.jpg;*.jpeg;*.png|All files");
+            //В свойство ImagePath выбранного контакта передаем путь к файлу
+            SelectedContact.ImagePath = filePath;
+            OnPropertyChanged(nameof(SelectedContact));
         }
 
         private void Update()

@@ -40,8 +40,12 @@
                 </StackPanel>
                 <Grid Height="125" Width="125">
                     <Image Height="125" Width="125"
-                           Source="{StaticResource DefaultContactImage}" Stretch="Fill"/>
+                           Source="{Binding SelectedContact.ImagePath,
+                        FallbackValue={StaticResource DefaultContactImage},
+                        TargetNullValue={StaticResource DefaultContactImage}}" 
+                           Stretch="Fill"/>
                     <Button Style="{StaticResource MenuIconButton}" 
+                            Command="{Binding BrowseImageCommand}"
                             Visibility="{Binding IsEditMode, Converter={StaticResource IsEditConverter}}"
                             Background="{StaticResource GloomyPurple}"
                             VerticalAlignment="Bottom" 

@@ -20,17 +20,20 @@ namespace AppContactBook.ViewModels
                 set { OnPropertyChanged(ref _contactsViewModel, value); }
             }
 
+            private IDialogService _dialogService;
+
             public ICommand LoadContactsCommand { get; private set; }
             public ICommand LoadFavoriteCommand { get; private set; }
 
             private IContactDataService _contactDataService;
 
-            public BookViewModel(IContactDataService contactDataService)
+            public BookViewModel(IContactDataService contactDataService, IDialogService dialogService)
             {
-                ContactsViewModel = new ContactsViewModel(contactDataService);
+                ContactsViewModel = new ContactsViewModel(contactDataService, dialogService);
                 LoadContactsCommand = new RelayCommand(LoadContacts);
                 LoadFavoriteCommand = new RelayCommand(LoadFavorites);
                 _contactDataService = contactDataService;
+                _dialogService = dialogService;
             }
 
             private void LoadContacts()

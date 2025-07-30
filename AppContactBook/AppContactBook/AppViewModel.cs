@@ -28,7 +28,9 @@ namespace AppContactBook
         public AppViewModel()
         {
             IContactDataService contactDataService = new MockDataController();
-            BookViewModel = new BookViewModel(contactDataService);
+            IDialogService dialogService = new WindowDialogService();
+
+            BookViewModel = new BookViewModel(contactDataService, dialogService);
             CurrentView = BookViewModel;
         }
     }

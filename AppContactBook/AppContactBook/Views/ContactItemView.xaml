@@ -4,6 +4,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:AppContactBook.Views"
+             xmlns:mv="clr-namespace:AppContactBook.ViewModels"
              mc:Ignorable="d" 
              d:DesignHeight="75" d:DesignWidth="250">
     <Grid>
@@ -15,7 +16,9 @@
                Width="40"
                Height="40"
                Margin="5"
-               Source="{StaticResource DefaultContactImage}" 
+               Source="{Binding ImagePath,
+                FallbackValue={StaticResource DefaultContactImage},
+                TargetNullValue={StaticResource DefaultContactImage}}" 
                Stretch="Fill"/>
         <StackPanel Grid.Column="1" Margin="5" VerticalAlignment="Center">
             <Label FontSize="18" Content="{Binding Name, FallbackValue=N/A}"/>
