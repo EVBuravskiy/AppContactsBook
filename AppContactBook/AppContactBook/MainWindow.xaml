@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:AppContactBook"
+        xmlns:local="clr-namespace:AppContactBook" 
         mc:Ignorable="d"
         Title="Contact Book" Height="450" Width="800">
     <DockPanel>
@@ -22,11 +22,13 @@
             </Grid.ColumnDefinitions>
             <Grid Grid.Column="0">
                 <Button Content="Favorite"
-                        Style="{StaticResource MenuTabButton}"/>
+                        Style="{StaticResource MenuTabButton}"
+                        Command="{Binding BookViewModel.LoadFavoriteCommand}"/>
             </Grid>
             <Grid Grid.Column="1">
                 <Button Content="Contacts"
-                        Style="{StaticResource MenuTabButton}"/>
+                        Style="{StaticResource MenuTabButton}"
+                        Command="{Binding BookViewModel.LoadContactsCommand}"/>
             </Grid>
             <!-- Tool Buttons -->
             <StackPanel Grid.Column="6" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right">
@@ -52,7 +54,7 @@
         </Grid>
         <!-- Content -->
         <Grid DockPanel.Dock="Bottom">
-            <ContentControl Content=""/>
+            <ContentControl Content="{Binding CurrentView}"/>
         </Grid>
     </DockPanel>
 </Window>

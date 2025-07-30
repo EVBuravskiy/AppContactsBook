@@ -27,7 +27,7 @@ namespace AppContactBook.ViewModels
 
             public BookViewModel(IContactDataService contactDataService)
             {
-                ContactsViewModel = new ContactsViewModel();
+                ContactsViewModel = new ContactsViewModel(contactDataService);
                 LoadContactsCommand = new RelayCommand(LoadContacts);
                 LoadFavoriteCommand = new RelayCommand(LoadFavorites);
                 _contactDataService = contactDataService;

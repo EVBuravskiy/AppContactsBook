@@ -1,4 +1,5 @@
-﻿using AppContactBook.Models;
+﻿using AppContactBook.Controllers;
+using AppContactBook.Models;
 using AppContactBook.Utilities;
 using System;
 using System.Collections.Generic;
@@ -6,6 +7,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
 
 namespace AppContactBook.ViewModels
 {
@@ -19,9 +21,12 @@ namespace AppContactBook.ViewModels
         }
         public ObservableCollection<Contact> Contacts { get; private set; }
 
-        public ContactsViewModel()
-        {
+        IContactDataService _contactDataService;
 
+        //Конструктор модели-представления
+        public ContactsViewModel(IContactDataService contactDataService)
+        {
+            _contactDataService = contactDataService;  
         }
 
         public void LoadContacts(IEnumerable<Contact> contacts)
@@ -29,5 +34,6 @@ namespace AppContactBook.ViewModels
             Contacts = new ObservableCollection<Contact>(contacts);
             OnPropertyChanged(nameof(Contacts));
         }
+
     }
 }

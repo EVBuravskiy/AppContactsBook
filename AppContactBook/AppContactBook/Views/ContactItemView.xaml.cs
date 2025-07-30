@@ -1,5 +1,8 @@
-﻿using AppContactBook.ViewModels.AppContactBook.ViewModels;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -10,17 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace AppContactBook
+namespace AppContactBook.Views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Логика взаимодействия для ContactItemView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ContactItemView : UserControl
     {
-        public MainWindow()
+        public ContactItemView()
         {
             InitializeComponent();
-            DataContext = new AppViewModel();
         }
     }
 }
