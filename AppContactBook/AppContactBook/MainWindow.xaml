@@ -39,7 +39,8 @@
                     </Button.Content>
                 </Button>
                 <!-- Edit button -->
-                <Button Style="{StaticResource MenuIconButton}">
+                <Button Style="{StaticResource MenuIconButton}"
+                        Command="{Binding BookViewModel.ContactsViewModel.EditCommand}">
                     <Button.Content>
                         <Image Height="25" Width="25" Source="/Resources/Images/createIcon.png" Stretch="Fill"/>
                     </Button.Content>

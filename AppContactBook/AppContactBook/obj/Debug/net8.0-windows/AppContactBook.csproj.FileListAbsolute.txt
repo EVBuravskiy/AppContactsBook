@@ -23,3 +23,44 @@ F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug
 F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\ref\AppContactBook.dll
 F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.Properties.Resources.resources
 F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.csproj.GenerateResource.cache
+F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\BookView.g.cs
+F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\ContactDetailsView.g.cs
+F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\ContactItemView.g.cs
+F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\BookView.baml
+F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\ContactDetailsView.baml
+F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\ContactItemView.baml
+F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Resources\Styles\DataTemplates.baml
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\bin\Debug\net8.0-windows\AppContactBook.exe
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\bin\Debug\net8.0-windows\AppContactBook.deps.json
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\bin\Debug\net8.0-windows\AppContactBook.runtimeconfig.json
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\bin\Debug\net8.0-windows\AppContactBook.dll
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\bin\Debug\net8.0-windows\AppContactBook.pdb
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Resources\Styles\Colors.baml
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\BookView.g.cs
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\ContactDetailsView.g.cs
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\ContactItemView.g.cs
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\App.g.cs
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook_MarkupCompile.cache
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook_MarkupCompile.lref
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\App.baml
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\MainWindow.baml
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Resources\Styles\DataTemplates.baml
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Resources\Styles\ElementStyles.baml
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\BookView.baml
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\ContactDetailsView.baml
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\Views\ContactItemView.baml
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.g.resources
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.Properties.Resources.resources
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.csproj.GenerateResource.cache
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.AssemblyInfoInputs.cache
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.AssemblyInfo.cs
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.csproj.CoreCompileInputs.cache
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.dll
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\refint\AppContactBook.dll
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.pdb
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\AppContactBook.genruntimeconfig.cache
+F:\Programming\С#\WPF\WPF ContactBook\AppContactBook\AppContactBook\obj\Debug\net8.0-windows\ref\AppContactBook.dll

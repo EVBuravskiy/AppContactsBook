@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 F:\Programming\С#\Пет-проекты\AppContactBook\AppContactBook\App.xaml
-3-1493571327
+7-855015535
 
-101608273130
+171715113115
 198-537775612
-MainWindow.xaml;Resources\Styles\Colors.xaml;Resources\Styles\ElementStyles.xaml;
+MainWindow.xaml;Resources\Styles\Colors.xaml;Resources\Styles\DataTemplates.xaml;Resources\Styles\ElementStyles.xaml;Views\BookView.xaml;Views\ContactDetailsView.xaml;Views\ContactItemView.xaml;
 
 False
 

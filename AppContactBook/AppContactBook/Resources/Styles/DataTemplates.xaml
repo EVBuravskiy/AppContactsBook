@@ -1,8 +1,13 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:v="clr-namespace:AppContactBook.Views" 
+                    xmlns:converter="clr-namespace:AppContactBook.Utilities"
                     xmlns:vm="clr-namespace:AppContactBook.ViewModels.AppContactBook.ViewModels">
     <DataTemplate DataType="{x:Type vm:BookViewModel}">
         <v:BookView/>
     </DataTemplate>
+
+    <converter:BoolToVisibilityConverter x:Key="IsEditConverter"/>
+    <converter:NullBoolToVisibilityConverter x:Key="SelectedContactConverter"/>
+    
 </ResourceDictionary>
