@@ -33,7 +33,8 @@
             <!-- Tool Buttons -->
             <StackPanel Grid.Column="6" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right">
                 <!-- Add button -->
-                <Button Style="{StaticResource MenuIconButton}">
+                <Button Style="{StaticResource MenuIconButton}"
+                        Command="{Binding BookViewModel.ContactsViewModel.AddCommand}">
                     <Button.Content>
                         <Image Height="25" Width="25" Source="/Resources/Images/addIcon.png" Stretch="Fill" />
                     </Button.Content>
@@ -46,7 +47,8 @@
                     </Button.Content>
                 </Button>
                 <!-- Delete button -->
-                <Button Style="{StaticResource MenuIconButton}">
+                <Button Style="{StaticResource MenuIconButton}"
+                        Command="{Binding BookViewModel.ContactsViewModel.DeleteCommand}">
                     <Button.Content>
                         <Image Height="25" Width="25" Source="/Resources/Images/deleteIcon.png" Stretch="Fill"/>
                     </Button.Content>

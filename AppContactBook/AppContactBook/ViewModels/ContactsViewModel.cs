@@ -22,7 +22,7 @@ namespace AppContactBook.ViewModels
         }
         public ObservableCollection<Contact> Contacts { get; private set; }
 
-        private IEnumerable<Contact> _contacts;
+        private List<Contact> _contacts;
 
         private IContactDataService _contactDataService;
 
@@ -53,24 +53,57 @@ namespace AppContactBook.ViewModels
 
         public ICommand BrowseImageCommand { get; private set; }
 
+        public ICommand AddCommand { get; private set; }
+        public ICommand DeleteCommand { get; private set; }
+
         //Конструктор модели-представления
         public ContactsViewModel(IContactDataService contactDataService, IDialogService dialogService)
         {
             _contactDataService = contactDataService;
-            _contacts = contactDataService.GetContacts();
+            _contacts = contactDataService.GetContacts().ToList();
+            Contacts = new ObservableCollection<Contact>();
+            foreach (Contact contact in _contacts)
+            {
+                Contacts.Add(contact);
+            }
             _dialogService = dialogService;
             UpdateCommand = new RelayCommand(Update);
             EditCommand = new RelayCommand(Edit, CanEdit);
             SaveCommand = new RelayCommand(Save, IsEdit);
             BrowseImageCommand = new RelayCommand(BrowseImage, IsEdit);
+            AddCommand = new RelayCommand(Add);
+            DeleteCommand = new RelayCommand(Delete, CanDelete);
+        }
+
+        private void Add()
+        {
+            Contact newContact = new Contact
+            {
+                Name = "N/A",
+                PhoneNumbers = new string[2],
+                Emails = new string[2],
+                Locations = new string[2],
+            };
+
+            Contacts.Add(newContact);
+            _contacts.Add(newContact);
+            SelectedContact = newContact;
+        }
+
+        private void Delete()
+        {
+            _contacts.Remove(SelectedContact);
+            Save();
+        }
+
+        private bool CanDelete()
+        {
+            return SelectedContact == null ? false : true;
         }
 
         private void BrowseImage()
         {
-            //Получаем путь к файлу
-            //В методе OpenFile прописываем фильтр файлов, которые будут открываться
             var filePath = _dialogService.OpenFile("Image files|*.bmp;*.jpg;*.jpeg;*.png|All files");
-            //В свойство ImagePath выбранного контакта передаем путь к файлу
             SelectedContact.ImagePath = filePath;
             OnPropertyChanged(nameof(SelectedContact));
         }
@@ -111,6 +144,5 @@ namespace AppContactBook.ViewModels
             Contacts = new ObservableCollection<Contact>(contacts);
             OnPropertyChanged(nameof(Contacts));
         }
-
     }
 }
